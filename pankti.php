@@ -1,6 +1,7 @@
 <? php
+echo "hello friends"
 
 echo "hello world"
-echo "pankti here"
+
 
 ?>
